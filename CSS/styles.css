@@ -1,0 +1,128 @@
+
+/*
+Color Plate
+https://colorhunt.co/palette/88e0ef161e54ff5151ff9b6a
+*/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Calibri, sans-serif;
+    color: #40514E;
+}
+hr{
+    border: dotted #FF9B6A 8px;
+    width: 5%;
+    border-bottom: none;
+    margin: 50px auto;
+}
+.top-container{
+    background-color: #99E1FF;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    margin: 70px auto 0 auto;
+    font-size: 4.5rem;
+    color: #161E54;
+}
+
+h2{
+    font-size: 1.9rem;
+    color: #161E54;
+    font-weight: normal;
+}
+h3{
+    color: #ff5151;
+}
+a{
+    padding: 20px;
+    color: #ff5151;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: antiquewhite;
+}
+
+.left-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.right-cloud{
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+.middle-container{
+    padding: 50px 0;
+    background-color: antiquewhite;
+}
+#profile-img{
+    border-radius: 100%;
+    width: 150px;
+}
+.intro{
+    width: 25%;
+    margin: auto;
+}
+
+.computer-image{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-image{
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me{
+    width: 30%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #161E30;
+    padding: 30px 0;
+}
+.btn {
+    background: #ff5151;
+    background-image: -webkit-linear-gradient(top, #ff5151, #FF9B6A);
+    background-image: -moz-linear-gradient(top, #ff5151, #FF9B6A);
+    background-image: -ms-linear-gradient(top, #ff5151, #FF9B6A);
+    background-image: -o-linear-gradient(top, #ff5151, #FF9B6A);
+    background-image: linear-gradient(to bottom, #ff5151, #FF9B6A);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-family: Calibri, sans-serif;
+    color: antiquewhite;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #ff5151;
+    background-image: -webkit-linear-gradient(top, #ff5151, #161E54);
+    background-image: -moz-linear-gradient(top, #ff5151, #161E54);
+    background-image: -ms-linear-gradient(top, #ff5151, #161E54);
+    background-image: -o-linear-gradient(top, #ff5151, #161E54);
+    background-image: linear-gradient(to bottom, #ff5151, #161E54);
+    text-decoration: none;
+}
+.copyright{
+    color: antiquewhite;
+    margin: 50px 0 0 0;
+}
+
+
